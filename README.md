@@ -1,3 +1,3 @@
 ## Hi!
 Today's date is: 
-Mon Mar 14
+Tue Mar 15
